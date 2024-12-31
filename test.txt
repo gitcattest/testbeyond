@@ -1,7 +1,10 @@
 hello
 
-<<<<<<< HEAD
+
 new branch beyond
-=======
+
 hi
->>>>>>> bc61a20a27b9e27e614e96d935f888f6a036da70
+
+수정 beyond 브랜치
+
+
